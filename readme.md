@@ -1,13 +1,13 @@
 
 # Table of content:
 
-### [Introduction](https://github.com/TimDaNobody/Belt-tension-data-sharing-platform#introduction-1)
+### [Introduction](#introduction-1)
 
-### [How to find exsisting results](https://github.com/TimDaNobody/Belt-tension-data-sharing-platform#how-to-find-exsisting-results-1)
+### [How to find exsisting results](#how-to-find-exsisting-results-1)
 
-### [How to perform the test](https://github.com/TimDaNobody/Belt-tension-data-sharing-platform#how-to-perform-the-test-1)
+### [How to perform the test](#how-to-perform-the-test-1)
 
-### [How to submit your test results](https://github.com/TimDaNobody/Belt-tension-data-sharing-platform#how-to-submit-your-test-results-1)
+### [How to submit your test results](#how-to-submit-your-test-results-1)
 
 ## Introduction:
 
@@ -15,14 +15,22 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 ## How to find exsisting results:
 
-You can use your printer model number to search in the [tension_summary.csv]() file
+You can use your printer model number to search in the [tension_summary](./summary) file
 
 ## How to perform the test:
 
-- Get the [tension_data_template.csv]()
+- Get the [tension_data_template](./templates)
 
-- Follow the Guide [here]()
+- Follow the Guide [here](https://prorifi3d.com/pages/how-to-tune-your-timing-belt)
 
 ## How to submit your test results:
 
 - Test result should be submitted via the form of "Pull request"
+
+- To do this, fork the repo first
+
+- Then create a new folder in the data folder, named with your [nickname]+[date]
+
+- Fill the tension data template, rename it with your printer model and put the file in the folder you just created.
+
+- Start a "Pull request"
