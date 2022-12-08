@@ -10,7 +10,7 @@
 
 ### [How to submit your test results](#how-to-submit-your-test-results-1)
 
-###
+### [Orgnization of the data](#orgnization-of-the-data-1)
 
 ## Introduction:
 
@@ -32,13 +32,13 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 - To do this, fork the repo first
 
-- Navigate to the folder of your machine. If it is not created yet, created the folder following the [rules]()
+- Navigate to the folder of your machine. If it is not created yet, created the folder following the [rules](#orgnization-of-the-data-1)
 
 - Fill the tension data template, rename it with [Model]-[Optimum tension]-[Provider]
 
 - Start a "Pull request"
 
-## Rules and orgnizations for data
+## Orgnization of the data
 
 - The data is sorted in the following order
 
