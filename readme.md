@@ -1,5 +1,6 @@
+# Belt tension data sharing platform
 
-# Table of content:
+## Table of content:
 
 ### [Introduction](#introduction-1)
 
