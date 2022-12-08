@@ -43,8 +43,8 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 - The data is sorted in the following order
 
 |-- data
-	|-- Brand
-		|-- Model
+     |-- Brand
+     |-- Model
 			|-- Modded
 				|-- [Model]-[Optimum tension]-[Provider].csv
 				|-- ...
