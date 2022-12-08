@@ -18,7 +18,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 ## How to find exsisting results:
 
--You can use your printer model number to search in the [tension_summary](./summary) file
+- You can find the optimum tension data and photo evidence in the data folder. The data folder is orgnaized as shown [here](#orgnization-of-the-data-1)
 
 ## How to perform the test:
 
@@ -36,6 +36,8 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 - Fill the tension data template, rename it with [Model]-[Optimum tension]-[Provider]
 
+- Note that the *Optimum tension* is in unit of *lb*
+
 - Start a "Pull request"
 
 ## Orgnization of the data
@@ -47,9 +49,11 @@ This repository serves as a timing belt tension data sharing platform for all 3D
         - Model
 			- Modded
 				- [Model]-[Optimum tension]-[Provider].csv
+				- [Provider](folder for photo evidence)
 				- ...
 			- Stock
 				- [Model]-[Optimum tension]-[Provider].csv
+				- [Provider](folder for photo evidence)
 				- ...
 
 
