@@ -33,7 +33,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 	- 1 layer of vertical shell
 	- 0.15 mm layer height
 	- **Same constant printing speed for the entire test print**
-	- If there is a stock Quality mode in the Slicer software for your machine, test the stock Quality mode first.
+	- **If there is a stock Quality mode in the Slicer software for your machine, test the stock Quality mode first.**
 
 ![image](./doc/assets/readme/Test_print.png)
 
