@@ -18,13 +18,23 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 ## How to find exsisting results:
 
-- You can find the optimum tension data and photo evidence in the data folder. The data folder is orgnaized as shown [here](#orgnization-of-the-data-1)
+- You can find the optimum tension data in the *data folder*. The data folder is orgnaized as shown [here](#orgnization-of-the-data-1)
 
 ## How to perform the test:
 
 - Get the [tension_data_template](./templates)
 
-- Follow the Guide [here](https://prorifi3d.com/pages/how-to-tune-your-timing-belt)
+- Follow the Guide [here](https://prorifi3d.com/pages/how-to-tune-your-timing-belt) to change the tension of the belt.
+
+- For the test print
+	- Use Black PETG
+	- 0% infill
+	- No top and bottom layers
+	- 1 layer of vertical shell
+	- 0.15 mm layer height
+	- *Same constant printing speed* 
+
+![image](.\doc\assets\readme\Test_print.png)
 
 ## How to submit your test results:
 
