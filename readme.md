@@ -32,7 +32,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 	- No top and bottom layers
 	- 1 layer of vertical shell
 	- 0.15 mm layer height
-	- **Same constant printing speed**
+	- **Same constant printing speed for the entire test print**
 
 ![image](./doc/assets/readme/Test_print.png)
 
@@ -42,13 +42,13 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 - To do this, fork the repo first
 
-- Navigate to the folder of your machine. If it is not created yet, created the folder following the [rules](#orgnization-of-the-data-1)
+- Navigate to the folder of your machine. If it is not created yet, created the folder following this [structure](#orgnization-of-the-data-1)
 
--Create a folder with name [Model]-[Optimum tension]-[Provider]
+- Create a folder with name **[Model]-[Optimum tension]-[Provider]**
 
-- Fill the tension data template, rename it with [Model]-[Optimum tension]-[Provider], put the data and other evidence such as photos under the folder you just created.
+- Fill the tension data template, rename it with **[Model]-[Optimum tension]-[Provider]**, put the data and other evidence such as photos under the folder you just created.
 
-- Note that the *Optimum tension* is in unit of *lb*
+- Note that the **Optimum tension** is in unit of *lb*
 
 - Start a "Pull request"
 
