@@ -50,12 +50,12 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 			- Modded
 				- [Model]-[Optimum tension]-[Provider]
 					- [Model]-[Optimum tension]-[Provider].csv
-					- [Provider](folder for photo evidence)
+					- (photo evidence)
 					- ...
 			- Stock
 				- [Model]-[Optimum tension]-[Provider]
 					- [Model]-[Optimum tension]-[Provider].csv
-					- [Provider](folder for photo evidence)
+					- (photo evidence)
 					- ...
 
 
