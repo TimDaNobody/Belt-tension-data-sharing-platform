@@ -34,7 +34,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 	- 0.15 mm layer height
 	- *Same constant printing speed* 
 
-![image](.\doc\assets\readme\Test_print.png)
+![image](./doc/assets/readme/Test_print.png)
 
 ## How to submit your test results:
 
