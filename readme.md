@@ -18,7 +18,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 
 ## How to find exsisting results:
 
-- You can find the optimum tension data in the data folder. The **data folder** is orgnaized as shown [here](#orgnization-of-the-data-1)
+- You can find the optimum tension data in the **[data folder](./data)**. The **data folder** is orgnaized as shown [here](#orgnization-of-the-data-1)
 
 ## How to perform the test:
 
