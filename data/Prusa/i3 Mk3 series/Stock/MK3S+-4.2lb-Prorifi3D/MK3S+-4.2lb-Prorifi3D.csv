@@ -1,6 +1,7 @@
 Provided by,Prorifi3D
 Date,2022/12/8
 Test Speed,25mm/s;QUALITY mode default speed
+layer height,0.15mm
 Optimum tension,4.2lb
 Worst tension,2.8lb
 MRR tendency,Decrease from 2lb to 4.2lb slightly increase from 4.2lb to 7lb
